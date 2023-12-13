@@ -2,3 +2,4 @@
 Python QR code generator 
 
 ### STEPS
+* pip install qr code
