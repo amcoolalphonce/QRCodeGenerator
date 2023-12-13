@@ -5,3 +5,4 @@ Python QR code generator
 * pip install qr code
 
 ### RESULTS
+![Alt text](image1.png)
