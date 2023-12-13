@@ -1,3 +1,3 @@
 import qrcode
 
-generate_image = qrcode.make()
+generate_image = qrcode.make("AmcoolGithub")
